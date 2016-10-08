@@ -4,7 +4,7 @@ Feel free to fork and make corrections, if you do please leave a comment and, I'
 
 Current Strawpolls: 
 
-Minecraft modding tutorials - http://www.strawpoll.me/11386233 =
+Minecraft modding tutorials - http://www.strawpoll.me/11386233 
 
 Content type - http://www.strawpoll.me/11386252 
 
